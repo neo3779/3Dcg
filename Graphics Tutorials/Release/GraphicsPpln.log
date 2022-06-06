@@ -1,0 +1,22 @@
+﻿Build started 08/01/2012 20:45:55.
+     1>Project "C:\Users\Alex J Davison\Dropbox\Uni\Year 4\Semster 1\3D Computer Graphics\Graphics Tutorials\GraphicsPpln.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\Release\GraphicsPpln.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Ob1 /Oy- /D WIN32 /D NDEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0710 /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Release/" /Fd".\Release/vc100.pdb" /Gd /TP /analyze- /errorReport:prompt sourceFiles\D3DApplication.cpp sourceFiles\D3DCamera.cpp sourceFiles\D3DObject.cpp sourceFiles\DXGraphicsWinApp.cpp sourceFiles\D3DTimer.cpp
+         D3DApplication.cpp
+     1>c:\users\alex j davison\dropbox\uni\year 4\semster 1\3d computer graphics\graphics tutorials\sourcefiles\D3DApplication.h(13): fatal error C1083: Cannot open include file: 'd3dx10.h': No such file or directory
+         D3DCamera.cpp
+     1>c:\users\alex j davison\dropbox\uni\year 4\semster 1\3d computer graphics\graphics tutorials\sourcefiles\D3DCamera.h(13): fatal error C1083: Cannot open include file: 'd3dx10.h': No such file or directory
+         D3DObject.cpp
+     1>c:\users\alex j davison\dropbox\uni\year 4\semster 1\3d computer graphics\graphics tutorials\sourcefiles\D3DObject.h(13): fatal error C1083: Cannot open include file: 'd3dx10.h': No such file or directory
+         DXGraphicsWinApp.cpp
+     1>c:\users\alex j davison\dropbox\uni\year 4\semster 1\3d computer graphics\graphics tutorials\sourcefiles\D3DApplication.h(13): fatal error C1083: Cannot open include file: 'd3dx10.h': No such file or directory
+         D3DTimer.cpp
+     1>sourceFiles\D3DTimer.cpp(41): warning C4244: '=' : conversion from 'float' to 'DWORD', possible loss of data
+         Generating Code...
+     1>Done Building Project "C:\Users\Alex J Davison\Dropbox\Uni\Year 4\Semster 1\3D Computer Graphics\Graphics Tutorials\GraphicsPpln.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:10.21

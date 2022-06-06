@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="D3DApplication">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BRQQEgCBGAoCoIDASAECFgkAYUMsMCqAwQAhUAo0gAA=</HashCode>
+      <FileName>sourceFiles\D3DApplication.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="m_camera" />
+      <Field Name="lights" />
+      <Field Name="m_threeDobject" />
+      <Field Name="timer" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="D3DCamera">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAIABABBAAAAAAAIAAAICACACAAAAAaGAKAAAAA=</HashCode>
+      <FileName>sourceFiles\D3DCamera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="D3DObject">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAEAoAAAAEAgRAAAAAEBAAKCBABgAgBBBIAEQGTACA=</HashCode>
+      <FileName>sourceFiles\D3DObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="D3DTimer">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABAAAAAAAAAAAgAIAAAAAAAAAAAAAQQAAAABEEAAA=</HashCode>
+      <FileName>sourceFiles\D3DTimer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="SimpleVertex">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIhAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sourceFiles\D3DObject.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Light">
+    <Position X="3" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAEAAAIAAAAIAAAAAAAIgIAAAkAAAABAAAAAABAAAA=</HashCode>
+      <FileName>sourceFiles\Light.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Material">
+    <Position X="8.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>REAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>sourceFiles\Light.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,55 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:D3DTimer.h" caret="0" fromTop="0" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:D3DCamera.h" caret="1633" fromTop="37" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:D3DObject.h" caret="2614" fromTop="37" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:D3DCamera.cpp" caret="2634" fromTop="37" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:D3DTimer.cpp" caret="0" fromTop="0" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:lighthelper.fx" caret="1805" fromTop="10" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:D3DObject.cpp" caret="451" fromTop="3" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:normalmap.fx" caret="3561" fromTop="21" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:D3DApplication.h" caret="1007" fromTop="39" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:Light.h" caret="364" fromTop="23" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:d3dUtil.h" caret="4517" fromTop="21" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:DXGraphicsWinApp.cpp" caret="0" fromTop="0" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:D3DApplication.cpp" caret="3514" fromTop="14" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:D3DApplication.cpp" caret="14320" fromTop="26" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:D3DApplication.cpp" caret="14320" fromTop="32" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:D3DApplication.cpp" caret="11677" fromTop="12" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:D3DApplication.cpp" caret="11625" fromTop="12" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:D3DApplication.h" caret="2759" fromTop="26" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:D3DApplication.cpp" caret="9356" fromTop="17" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:D3DApplication.cpp" caret="10742" fromTop="40" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:D3DApplication.cpp" caret="10742" fromTop="36" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:D3DApplication.cpp" caret="10747" fromTop="30" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:D3DApplication.h" caret="2759" fromTop="1" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:D3DApplication.cpp" caret="8007" fromTop="29" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:D3DApplication.cpp" caret="13996" fromTop="7" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:D3DApplication.cpp" caret="13956" fromTop="11" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:normalmap.fx" caret="3828" fromTop="19" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:normalmap.fx" caret="3655" fromTop="23" />
+      <File id="D0E22CE3-283F-4244-A4EC-18C4DAAD8227/f:D3DApplication.cpp" caret="4340" fromTop="46" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

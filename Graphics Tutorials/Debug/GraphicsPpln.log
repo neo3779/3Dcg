@@ -1,0 +1,29 @@
+﻿Build started 10/03/2012 01:11:37.
+     1>Project "C:\Users\Alex J Davison\Dropbox\Uni\Year 4\Semster 1\3D Computer Graphics\Graphics Tutorials\GraphicsPpln.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\Debug\GraphicsPpln.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include" /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug/" /Fd".\Debug/vc100.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt sourceFiles\D3DApplication.cpp
+         D3DApplication.cpp
+     1>sourceFiles\D3DApplication.cpp(33): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>sourceFiles\D3DApplication.cpp(33): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>sourceFiles\D3DApplication.cpp(490): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/GraphicsPpln.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86" d3d10.lib d3dx10d.lib winmm.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Debug\GraphicsPpln.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\Debug/GraphicsPpln.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:".\Debug\GraphicsPpln.lib" /MACHINE:X86 .\Debug/D3DApplication.obj
+         .\Debug/D3DCamera.obj
+         .\Debug/D3DObject.obj
+         .\Debug/DXGraphicsWinApp.obj
+         .\Debug/D3DTimer.obj
+         GraphicsPpln.vcxproj -> C:\Users\Alex J Davison\Dropbox\Uni\Year 4\Semster 1\3D Computer Graphics\Graphics Tutorials\.\Debug\GraphicsPpln.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:".\Debug/GraphicsPpln.exe;#1" /manifest .\Debug\GraphicsPpln.exe.intermediate.manifest
+       BscMake:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\bscmake.exe /nologo /o".\Debug\GraphicsPpln.bsc" .\Debug\D3DApplication.sbr .\Debug\D3DCamera.sbr .\Debug\D3DObject.sbr .\Debug\DXGraphicsWinApp.sbr .\Debug\D3DTimer.sbr
+       FinalizeBuildStatus:
+         Deleting file ".\Debug\GraphicsPpln.unsuccessfulbuild".
+         Touching ".\Debug\GraphicsPpln.lastbuildstate".
+     1>Done Building Project "C:\Users\Alex J Davison\Dropbox\Uni\Year 4\Semster 1\3D Computer Graphics\Graphics Tutorials\GraphicsPpln.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.31
